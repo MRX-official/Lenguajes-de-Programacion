@@ -1,3 +1,4 @@
+# PHP
 /* 
 La estrucutra básica de php se basa en iniciar con "<?php" y terminar con "?>"
 PHP al poder ser utilizado en páginas web una de sus formas de utilizarse en un archivo HTML es la siguiente:
