@@ -15,6 +15,8 @@ Los metacaracteres son carateres con un significado especial:
 | {} | Exactamente el número especificado de ocurrencias |"al{2}"|
 | PIPE | Cualquiera o |"falls(PIPE)stays"|
 | ( ) | Capturar y agurpar ||
+
+PIPE= "|"
 ## Sintaxis de expresiones regulares
 Cubriremos dos funciones importantes, que se usarían para manejar expresiones regulares. Pero primero una pequeña cosa: hay varios caracteres, que tendrían un significado especial cuando se usan en expresiones regulares. Para evitar cualquier confusión al tratar con expresiones regulares, usaríamos Raw Strings como r'expression '.
 ### Funcion search
