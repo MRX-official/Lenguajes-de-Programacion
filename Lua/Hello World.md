@@ -1,1 +1,4 @@
-
+# Lua 
+>  Este lenguaje de secuencia de comandos, consiste básicamente en una biblioteca que los programadores pueden incorporar en su software para volverlo programable. Lua está disponible para todos los sistemas operativos comunes y contiene un intérprete muy compacto que se gestiona con unas pocas líneas de código y que también puede acceder a la biblioteca.
+## ¿En qué ámbitos se utiliza Lua?
+> Debido a la falta de limitaciones impuestas a los desarrolladores, el alcance de las aplicaciones para el lenguaje de scripting Lua es muy amplio. A través de módulos definidos por el usuario, Lua puede extenderse virtualmente sin fin. Las aplicaciones de la programación con Lua, incluyen desde los servidores web hasta el desarrollo de videojuegos. Además, Lua es ideal para programar tu propia aplicación.
