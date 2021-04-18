@@ -1,0 +1,30 @@
+En PHP existen los comentarios, esto son líneas en el código que el interprete los lee pero no los ejecuta puesto que 
+los comentarios no son líneas de código ejecutable.
+
+¿Si no ejecuta una instrucción, entonces para qué usarlo?
+Pues podemos estar haciendo un proyecto ya sea en conjunto con un equipo o nosotros solos y las líneas de comentarios
+nos pueden ayudar para explicar qué estamos haciendo en ciertas líneas de código y así si lo retomamos en otro momento
+o trabajamos en equipo, entender qué se estas haciendo en ciertas líneas. 
+
+Formas de escribir un comentario:
+
+-> Doble diagonal (//) en una sola linea:
+<?php 
+  //Esto es un comentario, no saldrá en la ejecución.
+  echo "Esto no es un comentario, saldrá en la ejecución";
+?>
+
+-> Hashtag (#) en una sola línea:
+<?php 
+  #Esto es un comentario, no saldrá en la ejecución.
+  echo "Esto no es un comentario, saldrá en la ejecución";
+?>
+
+-> Multi línea con diagonal asterisco (/* /*)
+<?php
+  /*Este es un comentario 
+  hecho en multilinea
+  por lo tanto no va a verse en la ejecución.
+  */
+  echo "Este comentario saldrá en ejecución";
+?>
