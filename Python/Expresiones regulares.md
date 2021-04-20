@@ -13,7 +13,7 @@ Los metacaracteres son carateres con un significado especial:
 | * | Cero o más ocurrencias |"aix*"|
 | + | Una o más ocurrencias |"aix+"|
 | {} | Exactamente el número especificado de ocurrencias |"al{2}"|
-| PIPE | Cualquiera o |"falls(PIPE)stays"|
+| PIPE | OR |"falls(PIPE)stays"|
 | ( ) | Capturar y agurpar ||
 
 PIPE= "|"
